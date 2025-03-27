@@ -79,8 +79,6 @@ npm run dev
 ## 🤝 Contributing
 Feel free to fork the repo, raise issues, and submit PRs. Let’s build the future of AI-driven insurance together! 🚀
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ---
 📩 **Need Help?** Reach out via [email@example.com](mailto:email@example.com)
