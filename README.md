@@ -11,17 +11,12 @@ This **GenAI-powered Insurance Bot** utilizes the **Ollama API** to process user
 - **Conversational AI**: Provides human-like, context-aware interactions.
 
 ## 📌 Tech Stack
-### Backend:
+
 - **Python** (FastAPI / Flask)
 - **Ollama API** (LLM processing)
 - **LangChain** (Conversational memory & RAG)
 - **Vector Database** (FAISS / Pinecone) for efficient retrieval
 - **PostgreSQL / MongoDB** (Data storage)
-
-### Frontend:
-- **React / Next.js** (Web interface)
-- **Tailwind CSS** (UI styling)
-- **WebSockets / REST API** (Real-time interaction with backend)
 
 ## 🔧 Setup & Installation
 ### 1️⃣ Clone the Repository
